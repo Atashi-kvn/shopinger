@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "153072048213",
+    "firebase_url": "https://shoping-dd3b7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shoping-dd3b7",
+    "storage_bucket": "shoping-dd3b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153072048213:android:b9b993f1d91cb0c04b5cdc",
+        "android_client_info": {
+          "package_name": "com.atasksolutions.shopinger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPfj2oskDWkq_s05WcJQsSXq2ssjzir0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153072048213:android:cb8cfef380dd2e754b5cdc",
+        "android_client_info": {
+          "package_name": "com.atasksolutions.sokomjinga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPfj2oskDWkq_s05WcJQsSXq2ssjzir0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
