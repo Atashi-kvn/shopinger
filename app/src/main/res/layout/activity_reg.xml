@@ -105,7 +105,9 @@
             android:textSize="17sp"
             android:layout_weight="1"
             android:padding="8dp"
-            android:layout_gravity="left"/>
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_gravity="center"/>
 
         <Button
             android:id="@+id/login_btn"
@@ -117,6 +119,8 @@
             android:text="Login"
             android:textStyle="bold"
             android:textSize="17sp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
             android:gravity="center"/>
     </LinearLayout>
 
