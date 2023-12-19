@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">shopinger</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password_reset">Forgot Password? Reset</string>
 </resources>
